@@ -1,0 +1,47 @@
+.container{
+	width: 50%;
+}
+
+h2{
+	font-family: 'Lobster', cursive;
+}
+.first-section{
+	background-color: #B85252;
+}
+
+.container img{
+	width: 100%;
+}
+.container img,h2, hr, p{
+	margin:1rem auto;
+}
+
+h3,p, li{
+	font-family: 'Roboto', sans-serif;
+}
+
+hr {
+	background-color: #BABDB6;
+	height: 1px;
+	margin-left: 1rem;
+}
+
+.second-section{
+	background-color: #F54748;
+	padding: 2rem;
+}
+
+.image-subsection img{
+	width: 100%;
+}
+.info-subsection{
+	margin-top: 1rem;
+}
+.info-subsection h3, p{
+	margin: 0 auto
+}
+@media (max-width: 600px;){
+	.container{
+		width: 100%;
+	}
+}

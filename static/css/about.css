@@ -1,0 +1,27 @@
+.container{
+	width: 50%;
+}
+
+h2{
+	font-family: 'Lobster', cursive;
+}
+.first-section{
+	background-color: #BD4B4B;
+}
+
+.container img{
+	width: 100%;
+}
+.container img,h2, hr, p{
+	margin:1rem auto;
+}
+
+h3,p{
+	font-family: 'Roboto', sans-serif;
+}
+
+hr {
+	background-color: #BABDB6;
+	height: 1px;
+	margin-left: 1rem;
+}

@@ -1,0 +1,50 @@
+.container{
+	width: 50%;
+}
+
+h2{
+	font-family: 'Lobster', cursive;
+}
+.first-section{
+	background-color: #F05945;
+}
+
+.container img{
+	width: 100%;
+}
+.container img,h2, hr, p{
+	margin:1rem auto;
+}
+
+h3,p, li{
+	font-family: 'Roboto', sans-serif;
+}
+
+hr {
+	background-color: #BABDB6;
+	height: 1px;
+	margin-left: 1rem;
+}
+
+.second-section{
+	background-color: #396EB0;
+	padding: 2rem;
+}
+
+.image-subsection img{
+	width: 100%;
+}
+.info-subsection h3, .list-items, p{
+	margin: 0 auto
+}
+ul{
+	text-align: center;
+}
+li{
+	display: inline-block;
+	padding: 0.1rem;
+
+}
+li a{
+	color: inherit;
+}

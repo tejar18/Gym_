@@ -1,0 +1,52 @@
+body {
+    padding-top: 80px;
+    background-color: lightcyan;
+}
+
+.navcol {
+    padding: 0px 20px;
+}
+
+
+.navbtn {
+    margin: 0px 20px;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 150px;
+    top: 50%;
+    
+}
+.show-cart li {
+    display: flex;
+}
+
+.card {
+    margin: 20px 100px;
+    display: flex;
+
+}
+
+.card-img-top {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+.goback {
+    margin: 3px 20px;
+
+
+}
+a {
+    margin:0;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+i {
+    font-weight: 80px;
+}
